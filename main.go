@@ -1,9 +1,9 @@
 package main
 
 import (
-	"aoc2022/part2"
+	"aoc2022/part3"
 )
 
 func main(){
-    part2.P1()
+    part3.P2()
 }
